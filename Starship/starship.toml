@@ -7,7 +7,7 @@ success_symbol = "[∫](bold green)"     # The "success_symbol" segment is being
 
 [hostname]
 ssh_only = true
-format = "ssh on [$hostnme](bold red)"
+format = "ssh on [$hostname](bold red) at "
 
 [kubernetes]
 disabled = false
