@@ -9,6 +9,9 @@ success_symbol = "[∫](bold green)"     # The "success_symbol" segment is being
 ssh_only = true
 format = "ssh on [$hostname](bold red) at "
 
+[nodejs]
+disabled = true
+
 [kubernetes]
 disabled = false
 
